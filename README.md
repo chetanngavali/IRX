@@ -1,7 +1,7 @@
 # IRX — Universal IR Learning & Control System for ESP32
 
 <p align="center">
-  <img src="assets/logo/IRX-logo.png" alt="IRX Logo" width="420" />
+  <img src="assets/logo/IRX-logo.png" alt="IRX Logo" width="480" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" />
 </p>
 
 <p align="center">
