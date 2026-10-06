@@ -1,0 +1,46 @@
+{
+  "appliance": {
+    "id": "dev_samsung_tv",
+    "name": "Samsung Smart TV",
+    "category": "TV",
+    "description": "Living Room 55-inch QLED"
+  },
+  "commands": [
+    {
+      "id": "cmd_samsung_power",
+      "device_id": "dev_samsung_tv",
+      "name": "Power",
+      "protocol": "SAMSUNG",
+      "code": "E0E040BF",
+      "address": 7,
+      "command": 8,
+      "bits": 32,
+      "carrier_frequency": 38000,
+      "duty_cycle": 33,
+      "raw_samples": 67,
+      "raw_data": [
+        4500, 4500, 560, 560, 560, 1690, 560, 560, 560, 560,
+        560, 560, 560, 560, 560, 560, 560, 1690, 560, 1690,
+        560, 1690, 560, 1690, 560, 1690, 560, 1690, 560, 1690
+      ]
+    },
+    {
+      "id": "cmd_samsung_volup",
+      "device_id": "dev_samsung_tv",
+      "name": "Volume Up",
+      "protocol": "SAMSUNG",
+      "code": "E0E0E01F",
+      "address": 7,
+      "command": 224,
+      "bits": 32,
+      "carrier_frequency": 38000,
+      "duty_cycle": 33,
+      "raw_samples": 67,
+      "raw_data": [
+        4500, 4500, 560, 1690, 560, 1690, 560, 1690, 560, 560,
+        560, 560, 560, 560, 560, 560, 560, 1690, 560, 1690,
+        560, 1690, 560, 560, 560, 560, 560, 560, 560, 560
+      ]
+    }
+  ]
+}

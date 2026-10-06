@@ -1,0 +1,6 @@
+.pio
+.vscode
+.idea
+*.pyc
+.DS_Store
+Thumbs.db

@@ -1,0 +1,16 @@
+Item,Designator,Component,Package,Quantity,Target Specification,Est Unit Cost USD,Est Total Cost USD
+1,U1,ESP32 Development Board,DevKit V1 38-Pin,1,Dual-Core 240MHz 4MB Flash,3.50,3.50
+2,U2,TSOP1838 IR Receiver,Through-Hole 3-pin,2,38 kHz bandpass 940 nm,0.40,0.80
+3,D1-D4,940nm High-Power IR LED,5mm Round T-1 3/4,4,940 nm 1.3V 100mA pulsed,0.15,0.60
+4,Q1-Q2,2N2222 NPN Transistor,TO-92,2,Vceo=40V Ic=800mA hFE>100,0.10,0.20
+5,R1,Base Resistor 1 kOhm,1/4W Axial,4,1 kOhm 5% Carbon/Metal Film,0.02,0.08
+6,R2-R3,Current Limiter 100 Ohm,1/2W Axial,4,100 Ohm 5% 0.5 Watt,0.04,0.16
+7,R4,Status Resistor 330 Ohm,1/4W Axial,2,330 Ohm 5%,0.02,0.04
+8,C1,Decoupling Cap 0.1 uF,5.08mm Ceramic,5,100 nF 50V X7R MLCC,0.03,0.15
+9,C2,Filter Cap 10 uF,Radial Electrolytic,3,10 uF 25V Electrolytic,0.05,0.15
+10,C3,Bulk Cap 100 uF,Radial Electrolytic,2,100 uF 16V Low-ESR,0.08,0.16
+11,SW1-SW3,Tactile Push Buttons,6x6x5mm Momentary,3,SPST Tact Switch,0.08,0.24
+12,D5-D6,Blue Status LED,3mm / 5mm,2,Blue LED Vf=3.0V,0.05,0.10
+13,BRD1,Prototype Breadboard,400 Tie-Point,1,Standard Solderless Breadboard,2.20,2.20
+14,W1,Dupont Jumper Wires,22 AWG Ribbon,1,40-pin Ribbon Wire Bundle,1.20,1.20
+15,CB1,Micro-USB Data Cable,1 Meter,1,28/24 AWG Data & Sync Cable,1.50,1.50
