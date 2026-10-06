@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="../../assets/logo/IRX-logo.png" alt="IRX Logo" width="320" />
+</p>
+
 # Project Overview — IRX
 
 | Attribute | Specification |

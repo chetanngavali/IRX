@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="../../assets/logo/IRX-logo.png" alt="IRX Logo" width="280" />
+</p>
+
 # Getting Started — IRX
 
 Welcome to **IRX**! This guide walks you through setting up and using your universal remote device.
